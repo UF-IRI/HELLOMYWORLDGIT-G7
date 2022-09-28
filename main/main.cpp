@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "example.h"
+#include "tarea2709.h"
 #include "math.h"
 using namespace std;
 
